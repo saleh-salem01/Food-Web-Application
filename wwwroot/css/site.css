@@ -1,0 +1,82 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.text-pink{
+    color:orangered !important;
+}
+.nav-link{
+    letter-spacing: 2px;
+}
+#carouselExampleIndicators {
+    height: 350px;
+}
+/*
+    
+.carousel-item{
+    height:300px;
+}
+    .carousel-item img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+*/
+footer {
+    background-color: #0d243d;
+   /* height: 400px; /* Adjust this as needed */
+  /*  width: 100%; /* Ensure it fills the screen width */
+}
+header{
+    z-index:1000;
+}
+.dishCard{
+    hight:250px
+}
+.fa-instagram {
+    color:#bc2a8d;
+}
+.fa-facebook {
+    color: #1877F2;
+}
+.fa-whatsapp {
+    color: #25D366;
+}
+.fa-envelope{
+    color:#EA4335;
+}
+#recipe-list{
+    top:5rem;
+}
+
+/*#recipe-list::-webkit-scrollbar{
+    width:10px
+}
+
+    #recipe-list::-webkit-scrollbar-thumb {
+        background-color: #ff1448;
+        border-radius:10px;
+    }
+
+#recipe-list::-webkit-scrollbar-track{
+    background-color:#fffffff;
+}*/
+.recipe-item:hover {
+    background-color:gray;
+    
+}
