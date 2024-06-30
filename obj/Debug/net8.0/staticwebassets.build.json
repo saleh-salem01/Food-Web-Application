@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BqG79Yfqt3vchshqaQeQ7mkUqyGJzCpkBhGFhQDH0eE=",
+  "Hash": "y30B+VYnn2+ON1/xfHFNFpqFl8Ui1veak7M8wa9F4Jc=",
   "Source": "FoodApplication",
   "BasePath": "_content/FoodApplication",
   "Mode": "Default",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carouselImages\\istockphoto-531469196-612x612.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ALEX TOP\\Desktop\\c#\\FoodApplication\\FoodApplication\\wwwroot\\js\\jquery-3.7.1.min.js",
+      "SourceId": "FoodApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ALEX TOP\\Desktop\\c#\\FoodApplication\\FoodApplication\\wwwroot\\",
+      "BasePath": "_content/FoodApplication",
+      "RelativePath": "js/jquery-3.7.1.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.7.1.min.js"
     },
     {
       "Identity": "C:\\Users\\ALEX TOP\\Desktop\\c#\\FoodApplication\\FoodApplication\\wwwroot\\js\\jquery-ui.min.js",

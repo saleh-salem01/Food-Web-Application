@@ -236,3 +236,4 @@ C:\Users\ALEX TOP\Desktop\c#\FoodApplication\FoodApplication\bin\Debug\net8.0\ru
 C:\Users\ALEX TOP\Desktop\c#\FoodApplication\FoodApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\ALEX TOP\Desktop\c#\FoodApplication\FoodApplication\obj\Debug\net8.0\FoodApplication.csproj.AssemblyReference.cache
 C:\Users\ALEX TOP\Desktop\c#\FoodApplication\FoodApplication\obj\Debug\net8.0\FoodApplication.csproj.CopyComplete
+C:\Users\ALEX TOP\Desktop\c#\FoodApplication\FoodApplication\obj\Debug\net8.0\FoodApplication.sourcelink.json

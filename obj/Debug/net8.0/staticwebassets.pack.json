@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\carouselImages\\istockphoto-531469196-612x612.jpg"
     },
     {
+      "Id": "C:\\Users\\ALEX TOP\\Desktop\\c#\\FoodApplication\\FoodApplication\\wwwroot\\js\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.7.1.min.js"
+    },
+    {
       "Id": "C:\\Users\\ALEX TOP\\Desktop\\c#\\FoodApplication\\FoodApplication\\wwwroot\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
     },
